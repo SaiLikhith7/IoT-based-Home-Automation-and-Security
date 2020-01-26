@@ -1,40 +1,17 @@
 # IoT based Home Automation and Security
-> Short blurb about what your repository does.
+
 
 [![SaiLikhith](https://img.shields.io/badge/Sai%20Likhith-Repository-brightgreen)](https://github.com/SaiLikhith7/)
 
-One to two paragraph statement about your product and what it does.
 
-![](header.png)
+This is an embedded systems based Arduino project which takes care of security and home appliances operations using the android mobile or sms
 
 ## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
+1) Use the Arduino board and code it using the Embedded C
+2) 
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
 
 
 ## Meta
