@@ -60,9 +60,9 @@ AT+CMGF=1 <ENTER>                       - Selecting Text mode
 
 AT+CMGS=”Mobile Number” <ENTER> - Assigning recipient’s mobile number
 
->>Now we can write our message
+> Now we can write our message
 
->>After writing message
+> After writing message
 
 Ctrl+Z  send message command (26 in decimal).
 
