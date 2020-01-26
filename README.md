@@ -13,16 +13,16 @@ In this project, Arduino is used for controlling whole the process. Here we have
 
 Circuit Components:
 
-Arduino UNO
-GSM Module
-ULN2003
-Relay 5 volt
-Bulb with holder
-Connecting wires
-Bread board
-16x2 LCD
-Power supply
-Cell phone
+- Arduino UNO
+- GSM Module
+- ULN2003
+- Relay 5 volt
+- Bulb with holder
+- Connecting wires
+- Bread board
+- 16x2 LCD
+- Power supply
+- Cell phone
 
 
 Here we have used a prefix in command string that is “#A.”. This prefix is used to identify that the main command is coming next to it and * at the end of string indicates that message has been ended.
@@ -33,59 +33,17 @@ Here in this project we have used 3 zero watt bulb for demonstration which indic
 
 Below is the list of messages which we send via SMS, to turn On and Off the Fan, Light and TV:
 
-S.no.
 
-Message
-
-Operation
-
-1
-
-#A.fan on*
-
-Fan ON
-
-2
-
-#A.fan off*
-
-Fan OFF
-
-3
-
-#A.light on*
-
-Light ON
-
-4
-
-#A.light off*
-
-Light OFF
-
-5
-
-#A.tv on*
-
-TV ON
-
-6
-
-#A.tv off*
-
-TV Off
-
-7
-
-#A.all on*
-
-All ON
-
-8
-
-#A.all off*
-
-All OFF
+|S.no.|Message|Operation|
+|-----|-------|---------|
+|1|#A.fan on*|Fan ON|
+|2|#A.fan off*|Fan OFF|
+|3|#A.light on*|Light ON|
+|4|#A.light off*|Light OFF|
+|5|#A.tv on*|TV ON|
+|6|#A.tv off*|TV Off|
+|7|#A.all on*|All ON|
+|8|#A.all off*|All OFF|
 
  
 GSM Module:
