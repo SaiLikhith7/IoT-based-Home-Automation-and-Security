@@ -1,5 +1,4 @@
-# webpages.github.io
-# Repositiory Name
+# IoT based Home Automation and Security
 > Short blurb about what your repository does.
 
 [![SaiLikhith](https://img.shields.io/badge/Sai%20Likhith-Repository-brightgreen)](https://github.com/SaiLikhith7/)
